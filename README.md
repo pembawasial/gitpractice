@@ -1,1 +1,1 @@
-# gitpractice for Hackober2018 , using git
+# gitpractice for Hackober2018 , using git , share project
